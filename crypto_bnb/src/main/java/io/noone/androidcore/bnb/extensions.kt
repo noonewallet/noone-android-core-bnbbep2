@@ -1,6 +1,6 @@
 package io.noone.androidcore.bnb
 
-import io.noone.adnrodicore.crypto.ECKey
+import io.noone.androidcore.ECKey
 import io.noone.androidcore.bnb.types.VarLong
 import java.math.BigInteger
 

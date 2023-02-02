@@ -1,6 +1,6 @@
 package io.noone.androidcore.bnb.types
 
-import io.noone.adnrodicore.crypto.utils.HexUtils
+import io.noone.androidcore.utils.HexUtils
 
 enum class MessageType(typePrefix: String?) {
     Send("2A2C87FA"),

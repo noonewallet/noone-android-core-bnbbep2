@@ -1,9 +1,9 @@
 package io.noone.androidcore.bnb
 
-import io.noone.adnrodicore.crypto.ECKey
-import io.noone.adnrodicore.crypto.utils.Bech32
-import io.noone.adnrodicore.crypto.utils.BitsConverter
-import io.noone.adnrodicore.crypto.utils.sha256hash160
+import io.noone.androidcore.ECKey
+import io.noone.androidcore.utils.Bech32
+import io.noone.androidcore.utils.BitsConverter
+import io.noone.androidcore.utils.sha256hash160
 
 class Address {
 

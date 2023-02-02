@@ -1,6 +1,6 @@
 package io.noone.androidcore.bnb
 
-import io.noone.adnrodicore.crypto.utils.*
+import io.noone.androidcore.utils.*
 import java.math.BigInteger
 
 @Suppress("MemberVisibilityCanBePrivate", "unused")

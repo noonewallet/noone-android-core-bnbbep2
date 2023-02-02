@@ -1,8 +1,8 @@
 package io.noone.androidcore.bnb
 
 import com.google.protobuf.ByteString
-import io.noone.adnrodicore.crypto.ECKey
-import io.noone.adnrodicore.crypto.utils.sha256
+import io.noone.androidcore.ECKey
+import io.noone.androidcore.utils.sha256
 import io.noone.androidcore.bnb.protos.Binance
 import io.noone.androidcore.bnb.types.MessageType
 import io.noone.androidcore.bnb.types.SignData
